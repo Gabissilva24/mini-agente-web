@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+*.log
+
+
+
+
+
+agente/
+├── .gitignore
+├── mini_agente.py
+├── README.md
+└── requirements.txt
+
+
+
+agente_web/
+├── app.py
+├── README.md
+└── requirements.txt
